@@ -31,5 +31,5 @@ Image-based Car brand prediction using Deep learning technique and ResNet-50 arc
 
 ## Future Scope
 * Use of other Deep CNN architecture such as VGG16, AlexNet.
-* Deployment in PAAS platforms such as Heroku or IAAS like AWS for a complete cotton disease prediction web app.
+* Deployment in PAAS platforms such as Heroku or IAAS like AWS for a complete Car brand prediction web app.
 
